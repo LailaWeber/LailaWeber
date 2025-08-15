@@ -10,7 +10,6 @@
 - 🌱 Em constante aprendizado sobre **design centrado no usuário**, **frontend** e **backend**.
 - 🎨 Experiência prévia com criatividade e consultoria de estilo, agora aplicando essa visão estética ao mundo digital.
 - 🔍 Interesse especial por **acessibilidade** e **design responsivo**.
-- 📚 Estudo com a metodologia 60/10 (60 min foco + 10 min pausa).
 - ☕ Combino café e playlists para transformar código em experiências.
 
 ---
@@ -19,16 +18,6 @@
 - **Design:** Figma, Canva, Adobe XD
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend (em aprendizado):** Node.js, Express
-- **Outros:** Git/GitHub, Notion, Trello
-
----
-
-## 📈 O que estou aprendendo agora
-- UX Research & UX Writing
-- Prototipagem no Figma
-- JavaScript Avançado
-- Integração de APIs
-- Boas práticas de usabilidade
 
 ---
 
