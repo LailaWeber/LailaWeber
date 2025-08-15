@@ -14,13 +14,6 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-- **Design:** Figma, Canva, Adobe XD
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend (em aprendizado):** Node.js, Express
-
----
-
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/laila-weber-silva)
 
