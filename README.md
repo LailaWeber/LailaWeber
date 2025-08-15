@@ -1,16 +1,115 @@
-## Hi there 👋
+# Olá, eu sou a Laila Weber! 👋
 
-<!--
-**LailaWeber/LailaWeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Migrando de carreira para o mundo da tecnologia** — atualmente estudando **UX/UI Design** e **Desenvolvimento Fullstack**.
 
-Here are some ideas to get you started:
+💡 Apaixonada por criar experiências digitais funcionais, intuitivas e visualmente atraentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+- 🌱 Em constante aprendizado sobre **design centrado no usuário**, **frontend** e **backend**.
+- 🎨 Experiência prévia com criatividade e consultoria de estilo, agora aplicando essa visão estética ao mundo digital.
+- 🔍 Interesse especial por **acessibilidade** e **design responsivo**.
+- 📚 Estudo com a metodologia 60/10 (60 min foco + 10 min pausa).
+- ☕ Combino café e playlists para transformar código em experiências.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Design:** Figma, Canva, Adobe XD
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend (em aprendizado):** Node.js, Express
+- **Outros:** Git/GitHub, Notion, Trello
+
+---
+
+## 📈 O que estou aprendendo agora
+- UX Research & UX Writing
+- Prototipagem no Figma
+- JavaScript Avançado
+- Integração de APIs
+- Boas práticas de usabilidade
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/laila-weber-silva)
+
+---
+
+💬 *Aberta a colaborações e a novos desafios no mundo da tecnologia!*
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
